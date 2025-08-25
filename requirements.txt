@@ -1,8 +1,11 @@
 numpy
-pandas
-matplotlib
-seaborn
-plotly
-openpyxl
-nbformat
-scipy
+ pandas
+ matplotlib
+ seaborn
+ plotly
+ openpyxl
+ nbformat
+ scipy
+ streamlit
+# pip install -r requirements.txt
+# streamlit run app-1.py
